@@ -71,3 +71,20 @@ animation: fadeIn ease 5s;
 }
 
 
+ul.socials {
+  list-style-type: none;
+  text-align: center;
+}
+ul.socials li {
+  display: inline-block;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+  font-size: 5em;
+}
+a.fa.fa-github {
+  color: #000;
+}
+a.fa {
+  width: auto;
+}
+
